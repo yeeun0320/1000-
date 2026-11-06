@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+Pillow>=11.0,<13
+pillow-avif-plugin>=1.5,<2
+rembg[cpu]>=2.0.60,<3
+gunicorn>=22,<24
